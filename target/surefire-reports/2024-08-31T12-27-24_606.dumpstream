@@ -1,0 +1,5 @@
+# Created at 2024-08-31T12:27:25.091
+Boot Manifest-JAR contains absolute paths in classpath 'F:\SeleniumProject\Hitachi_DynatraceAutomation\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

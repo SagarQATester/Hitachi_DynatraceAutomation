@@ -1,0 +1,9 @@
+*Problem State:* OPEN
+*Problem ID:* P-241066
+*Problem Severity:* AVAILABILITY
+*Problem detected at:* Problem detected at: 10:18 (UTC) 08.10.2024
+*Impacted Entities:* Multiple infrastructure problems on Host microservices-2 - 192.168.100.107
+*Environment:* gld34765
+*Host:* microservices-2 - 192.168.100.107
+*Root cause:* Based on our dependency analysis all incidents are part of the same overall problem.
+*Problem Link:* https://gld34765.live.dynatrace.com/#problems/problemdetails;pid=5848982001913611780_1728382711090V2Dynatrace
